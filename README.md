@@ -22,5 +22,6 @@
   <a href = "mailto:joyce.f.silva@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joyce-fernandes-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     
+    ![Snake animation](https://github.com/Joyce-Fernandes/Joyce-Fernandes/blob/output/github-contribution-grid-snake.svg)
  
   </div>       
