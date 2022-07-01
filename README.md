@@ -1,4 +1,4 @@
-###  Hiii 👋 I'm Joyce Fernandes, web developer and production engineer.
+###  Hiii 👋 I'm Joyce Fernandes, Full-Stack .NET Developer and production engineer.
 
 ##
 
