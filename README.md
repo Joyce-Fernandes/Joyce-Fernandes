@@ -16,6 +16,7 @@
   <img align="center" alt="Joy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://th.bing.com/th/id/R.7a9f8343bf349b57a42cb162e8db1234?rik=58vTfrj%2fR2n2jQ&pid=ImgRaw&r=0">
 </div> 
   
   
