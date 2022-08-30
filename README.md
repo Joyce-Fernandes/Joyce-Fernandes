@@ -26,7 +26,8 @@
  <a href="https://discord.com/channels/Joyce%20Fernandes#8656" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joyce.f.silva@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joyce-fernandes-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    
+     <a href="https://www.youtube.com/channel/UCKVbD3cXHsVOSLInM7xgDJg" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+     <a href="https://twitter.com/Joycef171" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"_blank"></a> 
   
  <div align="center">
   
