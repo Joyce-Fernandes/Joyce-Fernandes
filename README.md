@@ -1,7 +1,7 @@
 ###  Hiii 👋 I'm Joyce Fernandes, Full-Stack .NET Developer and production engineer.
 
 ##
- Take a 👀 at my website IFC viewer.
+ Take a l👀k at my website IFC viewer.
  
  👉 <a href="https://joyce-ifcjs.com/">Open</a> and view IFC files online.  
 ##
