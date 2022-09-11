@@ -1,9 +1,17 @@
-###  Hiii 👋 I'm Joyce Fernandes, Full-Stack .NET Developer and production engineer.
+<h2>  Hi, I'm Joyce Fernandes!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+</br>
+<p><em>Full-Stack .NET Developer <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</br>
+Production engineer and Building technician <a href="http://www.unb.br"> </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+</em></p>
 
 ##
+
  Take a l👀k at my website IFC viewer.
  
- 👉 <a href="https://joyce-ifcjs.com/">Open</a> and view IFC files online.  
+ 👉 <a href="https://joyce-ifcjs.com/">Open</a> and view IFC files online.
+ 
 ##
 <div align="center">
   <a href="https://github.com/Joyce-Fernandes">
@@ -36,6 +44,11 @@
   ![Snake animation](https://github.com/Joyce-Fernandes/Joyce-Fernandes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 <div align="center">
   <p>Made with :heart: and JavaScript.</p>
