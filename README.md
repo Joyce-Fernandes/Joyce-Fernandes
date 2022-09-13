@@ -29,13 +29,18 @@ Production engineer and Building technician <a href="http://www.unb.br"> </a><im
   <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
    <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://th.bing.com/th/id/R.7a9f8343bf349b57a42cb162e8db1234?rik=58vTfrj%2fR2n2jQ&pid=ImgRaw&r=0">
+  
 </div> 
   
   
   ##
+ 
   <div align="center" >
   
-### 📹 [Last video on my Youtube channel](https://www.youtube.com/channel/UCKVbD3cXHsVOSLInM7xgDJg)
+### 📹 [last video on my channel ](https://www.youtube.com/channel/UCKVbD3cXHsVOSLInM7xgDJg)
+   
+   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
 
 <a href='https://www.youtube.com/watch?v=5fiASJbH_h4' target='_blank'> 
   <img width='30%' src='https://user-images.githubusercontent.com/101930459/189638527-e212009c-2e5a-4671-b11a-dc21222cafa5.jpg' alt='IFC.js Crash Course' />
