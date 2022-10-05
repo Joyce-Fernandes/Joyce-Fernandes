@@ -3,7 +3,7 @@
 <p><em>Full-Stack .NET Developer <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>
 Production engineer and Building technician <a href="http://www.unb.br"> </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 </em></p>
 
 ##
@@ -43,7 +43,7 @@ Production engineer and Building technician <a href="http://www.unb.br"> </a><im
 
 
 <a href='https://www.youtube.com/watch?v=5fiASJbH_h4' target='_blank'> 
-  <img width='30%' src='https://user-images.githubusercontent.com/101930459/189638527-e212009c-2e5a-4671-b11a-dc21222cafa5.jpg' alt='IFC.js Crash Course' />
+  <img width='70%' src='https://user-images.githubusercontent.com/101930459/189638527-e212009c-2e5a-4671-b11a-dc21222cafa5.jpg' alt='IFC.js Crash Course' />
 </a><br>
 </div>
     
