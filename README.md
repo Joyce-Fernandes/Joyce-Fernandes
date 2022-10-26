@@ -1,11 +1,12 @@
 <h2>  Hi, I'm Joyce Fernandes!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </br>
 <p><em>Full-Stack .NET Developer <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 </br>
 <p><em>BIM software Developer  <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://th.bing.com/th/id/R.7a9f8343bf349b57a42cb162e8db1234?rik=58vTfrj%2fR2n2jQ&pid=ImgRaw&r=0">
 </br>
 Production engineer and Building technician <a href="http://www.unb.br"> </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+
 </em></p>
 
 ##
