@@ -75,7 +75,7 @@ Production engineer and Building technician <a href="http://www.unb.br"> </a><im
 
 
 <div align="center">
-  <p>Made with :heart: </p>
+  <p>Made with :heart: by Joyce </p>
   
 </div>
   </div>       
