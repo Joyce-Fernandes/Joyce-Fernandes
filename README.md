@@ -3,7 +3,7 @@
 <p><em>Full-Stack .NET Developer <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
 </br>
-<p><em>BIM software Developer  <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://th.bing.com/th/id/R.7a9f8343bf349b57a42cb162e8db1234?rik=58vTfrj%2fR2n2jQ&pid=ImgRaw&r=0">
+<p><em>BIM software Developer  <img align="center" alt="Joy-Csharp" height="30" width="30" src="https://avatars.githubusercontent.com/u/85238223?s=280&v=4">
 </br>
 Production engineer and Building technician <a href="http://www.unb.br"> </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h2>
 
@@ -31,7 +31,7 @@ Production engineer and Building technician <a href="http://www.unb.br"> </a><im
   <img align="center" alt="Joy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-   <img align="center" alt="Joy-Csharp" height="30" width="40" src="https://th.bing.com/th/id/R.7a9f8343bf349b57a42cb162e8db1234?rik=58vTfrj%2fR2n2jQ&pid=ImgRaw&r=0">
+   <img align="center" alt="Joy-Ifc" height="30" width="30" src="https://avatars.githubusercontent.com/u/85238223?s=280&v=4">
   
 </div> 
   
