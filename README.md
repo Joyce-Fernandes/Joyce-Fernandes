@@ -13,7 +13,7 @@ Production engineer and Building technician <a href="http://www.unb.br"> </a><im
 
  Take a l👀k at my website IFC viewer.
  
- 👉 <a href="[https://joyce-ifcjs.com/](https://ifcjs-d4224.firebaseapp.com/)">Open</a> and view IFC files online.
+ 👉 <a href="https://ifcjs-d4224.firebaseapp.com/">Open</a> and view IFC files online.
  
 ##
 
